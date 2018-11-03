@@ -1,0 +1,35 @@
+.nav>li>a {
+        color: white;
+}
+.pillssidebar{
+    padding-bottom: 396px;
+    border-left: 2px solid #a3ece9;
+    border-top: 2px solid #a3ece9;
+}
+.navHeder{
+    padding-bottom: 0px!important;
+    border-left: 0px!important;
+    border-top: 0px!important;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover{
+    border-right: 5px solid #83c8ef;
+    border-radius: 0%;
+}
+.navbar {
+   
+    margin-bottom: 0px;
+  
+}
+.bell{
+    color: blue;
+    font-size: 24px
+}
+.headerRightFirst{
+    background: #4030f2;
+    color: white;
+    margin-left: -104px;
+    padding-top: 22px;
+    padding-bottom: 47px;
+    width: 111px;
+    text-align: center;
+}
